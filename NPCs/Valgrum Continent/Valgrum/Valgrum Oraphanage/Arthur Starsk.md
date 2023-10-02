@@ -1,0 +1,1 @@
+Kid from the [[Valgrum Orphanage]]. Secretly admired [[Colm]] and eventually befriended him. After [[Colm]]'s injury, after the [[Massacre of the Kashnuldridh Tribe]], he offered him a job in his tavern in [[Valgrum]].

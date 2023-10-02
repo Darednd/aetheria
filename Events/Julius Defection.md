@@ -1,0 +1,1 @@
+15 years ago. [[Julius Cicero]] decides to withdraw from the army due to the attrocities and madness he witnessed. After the defection, he starts living alone in a small cabin in the [[Valgrum Forest]].

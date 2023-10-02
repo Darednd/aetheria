@@ -1,0 +1,1 @@
+Originating from [[The Founding Dragons]], after their essence merged with the one of particular chosen humans, this bloodline is considered royal and is still ruling justly over [[Anburora Maton]]. The surnames of these families, in honor of the dragons that bestowed this fighting chance on humanity, are their names.

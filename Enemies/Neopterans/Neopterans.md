@@ -1,0 +1,1 @@
+Huge insects - Monster Hunter Monster Manual

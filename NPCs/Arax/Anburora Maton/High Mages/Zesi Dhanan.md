@@ -1,0 +1,1 @@
+A red female dragonborn of the Dhanan family. Inherited the ruby dragon essence and is now in charge of the [[Anburora Maton#Red Area]] by being its #highMage.

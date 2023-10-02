@@ -1,0 +1,1 @@
+ The [[Church of the Eternal (Eternis)]] with their [[The Ark]] arrived here with a lot of resources and slaves and started building the base.

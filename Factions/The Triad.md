@@ -1,0 +1,1 @@
+An alliance of the three most powerful #eidolon s, [[Aeris]], [[Venus]] and [[Aquios]].

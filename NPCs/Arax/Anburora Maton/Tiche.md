@@ -1,0 +1,3 @@
+A teenage girl living in the [[Anburora Maton#Black Area]]. Very close to becoming [[Necron]]'s champion. Twisted and not right in her mind, she keeps the bodies of her dead parents in her house and occassionally kills a person for no reason whatsoever. One could call her the perfect champion of [[Necron|The Reaper]].
+
+If she finds out that [[Vince]] is also a potential champion to be, she will cast #powerWordKill on him, instantly killing him and ascending.

@@ -1,0 +1,1 @@
+Red dragonborn of the royal Dhanan family. Trades magical items in [[Fadon]] to the [[Masks]]. This is not something that is known in his family and he tries to keep it a secret.

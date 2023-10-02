@@ -1,0 +1,1 @@
+[[Uthio Rissu]]'s father and former #highMage of the [[Anburora Maton#White Area]] now serving as a guide to people coming to the Moonstone Castle.

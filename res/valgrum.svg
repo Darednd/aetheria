@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="223.05951mm"
+   height="223.05951mm"
+   viewBox="0 0 223.05951 223.05951"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="valgrum.svg"
+   inkscape:export-filename="E:\Mega\dnd\wiki\campaign2\res\valgrum.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   enable-background="new">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="227.2024"
+     inkscape:cy="319.4536"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer12"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     fit-margin-left="10" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6.5297546,-36.970245)"
+     style="display:inline">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4538"
+       cx="105"
+       cy="148.5"
+       r="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Surrounding Circle"
+     transform="translate(6.5297546,-36.970245)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 421.5293 47.244141 A 374.28569 374.28569 0 0 0 47.244141 421.5293 A 374.28569 374.28569 0 0 0 421.5293 795.81641 A 374.28569 374.28569 0 0 0 795.81641 421.5293 A 374.28569 374.28569 0 0 0 421.5293 47.244141 z M 421.5293 92.220703 A 329.30971 329.30971 0 0 1 750.83984 421.5293 A 329.30971 329.30971 0 0 1 421.5293 750.83984 A 329.30971 329.30971 0 0 1 92.220703 421.5293 A 329.30971 329.30971 0 0 1 421.5293 92.220703 z "
+       transform="matrix(0.26458333,0,0,0.26458333,-6.5297546,36.970245)"
+       id="path815" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Wall">
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4633"
+       cx="111.52975"
+       cy="111.52975"
+       r="87.12986" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Districts" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Iris 1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Eye Shape"
+     transform="translate(6.5297546,-36.970245)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Holy">
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4642"
+       cx="111.52975"
+       cy="111.52975"
+       r="22.45064" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 110.77367,24.778036 0.50217,64.112171"
+       id="path4644"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 132.25256,120.76799 53.76703,33.33598"
+       id="path4646"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 90.806789,121.4591 37.417732,156.24213"
+       id="path4648"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

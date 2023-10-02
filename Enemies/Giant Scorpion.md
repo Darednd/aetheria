@@ -1,0 +1,1 @@
+[Giant Scorpion](https://5e.tools/bestiary.html#giant%20scorpion_mm)

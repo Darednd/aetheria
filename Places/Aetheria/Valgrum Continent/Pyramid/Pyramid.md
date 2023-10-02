@@ -1,0 +1,1 @@
+Small pyramid, around 15 meters tall. The entrance leads to an underground zigurat, which layers get smaller and smaller the deeper one goes.

@@ -1,0 +1,1 @@
+Charmed by the performance of [[Vince]] and the [[Party]] in the [[Crossroads Camp]]. Escorted [[Lorenzo]] in his tent.

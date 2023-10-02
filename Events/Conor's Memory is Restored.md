@@ -1,0 +1,24 @@
+- An extremely heavy feeling of sadness fills [[Conor]]'s heart. His eyes tear up, but he does not know why yet.
+- The snow has partially melted.
+- [[Conor]], [[Bal Chuvorsk]] and two other [[Arcanists]] members are walking through the woods near nightfall.
+- They rest. The figures of the two members are blurry still. Weren't there only three of them?
+- [[Bal Chuvorsk]] asks him if he is feeling okay. They can't help but feel uneasy, being the first 4-man mission they have been sent on. Everyone expects the worst.
+- One of the members rests their head on Conor's shoulder before they close their eyes for the night. He hears a gentle 'Goodnight'.
+- The next day, they arrive at a poorly made small wooden cottage.
+- Outside of it stands a very familiar figure. A white dragonborn woman wearing light, blue robes.
+- All 4 rush towards her, without hesitation, as they were instructed, for their own safety.
+- The rustling of armor alerts the dragonborn woman.
+- A massive, almost gravitational pull centers around her and she puts her hands towards them.
+- A thin green ray exits one of  her fingers and spirals towards them.
+- It hits one of the blurry members.
+- In an instant, one of their comrades is turned to dust, only their refined armor and weapons hitting the ground where they stood, before the light breeze scatters the dust into the nearby woods.
+- There's a moment of silence and disbelief and everyone is in shock.
+- "No no no, not this one, not now..." The dragonborn looks towards the sky. "What have you DONE?"
+- Another moment of silence follows.
+- The disbelief is broken by a sudden stream of realization and sadness flows through everyone, especially Conor.
+- "[[ANNY]]!" [[Conor]] shouts his lungs out.
+- Play: https://youtu.be/YHouWxu2I-A
+- 0:00 - 0:46: Memories flood in. The time he has spent with her, whether it be practicing, drinking ale, taking a walk, or spending time together late at night. The image becomes clearer and clearer with each memory. He remembers her putting her head on his shoulder just the night before and saying "goodnight", just before he puts his head on hers and they fall asleep.
+- 0:46 - 1:26: The party flows into a rage and all out attacks the dragonborn, but cannot seem to reach her before she casts another spell. As they slowly lose consciousness, they see her slowly approaching them. Conor notices that her eyes have teared up and she is breathing heavily. "Couldn't you have done this earlier... WHY?"
+- 1:27 - 2:27: Conor is woken up and sees the dragonborn hands holding his face. "Please, please... Please... Forget... I'm sorry, I'm sorry, I'm sorry..." She is shaking and once again he feels the strong, almost gravitational pull towards her. Then blankness. She becomes serious and wipes her soaked face. "You have come here with two of your colleagues and I put them to sleep before you could even attack. You will find some truth in my words and you will no longer feel this sorrow. Your organization is not as good as you think it is and you've seen the signs. You no longer believe their goal is good." She helps him get up, while he is in the blank state and moves farther away, where they saw her first. As soon as the spell wears off, she convinces him to turn against the [[Arcanists]] and come with her. She casts the same spell on his two remaining colleagues, packs and they leave.
+- 2:27 - end: They walk the long path together, eventually settling in [[Lindow]], having a child and naming her, by [[Ella]]'s request, [[Anie]]. [[Conor]] did not object at all, in fact, he liked the name very much, but he couldn't explain why...

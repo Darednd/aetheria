@@ -1,0 +1,1 @@
+Gimmick figure of the [[Church of the Eternal (Eternis)]] used to control and calm the population of [[The Unted Empire (Обединетата Империја)]]. Non-existant.

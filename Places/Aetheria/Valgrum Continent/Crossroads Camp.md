@@ -1,0 +1,1 @@
+Located at the crossroads between [[Valgrum]], [[Orkham]] and [[Treim]].

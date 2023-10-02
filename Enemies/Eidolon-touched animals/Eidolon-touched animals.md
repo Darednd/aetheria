@@ -1,0 +1,1 @@
+Eidolon essence remains in the world and sometimes large amounts are absorbed by animals who then become something more. Materials from these monsters can be used to significantly increase the capabilities of weapons and equipment, even forge new and unique weapons with magical properties.

@@ -1,0 +1,1 @@
+One of the first dragonborn and the first who inherited [[Bahamut, The Noble - The Platinum Founding Dragon]]'s dragon essence. She would later be wed to [[Makou Rissu]] and give birth to [[Aetheria Bahamut Rissu|Aetheria Bahamut Rissu]], the world's savior.

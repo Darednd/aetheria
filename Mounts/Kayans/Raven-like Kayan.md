@@ -1,0 +1,1 @@
+Male. Ridden by [[Finn]].

@@ -1,0 +1,17 @@
+- Start from [[Uroth Continent]]
+- Deliver a shard of [[Thysia]] to [[Alaerela Continent]] on the behest of [[Fi'lor Sharian]], for research
+- There is a possibility to meet [[Aeon]] on [[Alaerela Continent]], acting as a spy to [[Finitus]] and [[Psionus|The Dreamer]]
+- Discover the anomaly in [[The Great Charybdis]]
+- Clues lead to [[Cheudalox Island]] via [[Raehand Continent]]
+- Knowledge about world deepens
+- Balance is bound to break
+- It must be restored and reforged
+- Only way to do it is to reawaken [[The Champion of Chaos]]
+- In order to do so, they must find the champion of [[Aeris|The Mother]] or [[Sanctus|The Holy]] in order to go to [[Adastreia]].
+- However, they need both #eidolon s to restore [[Aetheria Bahamut Rissu]]
+- [[Colm]] search begins
+- [[Collm's Ascension]]
+- Waking of [[Aetheria Bahamut Rissu]]
+- [[Pandemonium]] begins again
+- [[Aetheria]] becomes the overgod after broadcasting her story to all people on the globe
+- The eidolons are no more

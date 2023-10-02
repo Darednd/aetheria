@@ -1,0 +1,1 @@
+A small texan-like town on the [[Uroth Continent]]. A bit to the north of [[The Abyss]].

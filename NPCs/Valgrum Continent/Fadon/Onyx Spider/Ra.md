@@ -1,0 +1,1 @@
+Raigѐ Bueltruhr, or Ra in short, human, female, ripped. Member of the [[Onyx Spider]]. Main job is to keep [[The Peg Leg]] safe and secure, together with [[Seded]].

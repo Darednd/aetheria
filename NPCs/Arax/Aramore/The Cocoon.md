@@ -1,0 +1,1 @@
+[[Cicus]]'s champion. Unlike other champions who become akin to dragonborn when they ascend, the champions of this #eidolon start sprouting tendrils, hoses, slime (think Alien movie) and pick one place where they stay in a cocoon-like state for large amounts of time, said to only awaken when [[Pandemonium]] comes.

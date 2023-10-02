@@ -1,0 +1,1 @@
+Zimem Jinni. Halfling member of the [[Onyx Spider]]. Organized a fight pit for [[Khirhan]] and [[Finn]].

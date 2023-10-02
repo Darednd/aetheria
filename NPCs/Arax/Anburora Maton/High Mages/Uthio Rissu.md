@@ -1,0 +1,1 @@
+A white undefined dragonborn of the Rissu family. Inherited the moonstone dragon essence and is now in charge of the [[Anburora Maton#White Area]] by being its #highMage.

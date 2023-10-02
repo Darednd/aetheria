@@ -1,0 +1,1 @@
+The eastern edge of the [[Alaerela Continent]]. A magical cable car connects this end of the world with the [[Tr'nakh Island]].

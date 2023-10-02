@@ -1,0 +1,3 @@
+After witnessing the horrific event of [[Aska's Defilement]], [[Julius Cicero]] goes into a rage and assaults the drunk soldiers with the [[Lakh'ota Battleaxe]] he received from [[Esma]]. After a long and hard battle, with the advantage he had from the soldiers being drunk, he massacred the whole unit. Most of his scars are from this very battle.
+
+Once back in [[Valgrum]], he said they were heavily defeated and that he no longer feels like he can fight after what he has seen. Being a very successful General, the [[Church of the Eternal (Eternis)|church]] lets him go.

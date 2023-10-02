@@ -1,0 +1,1 @@
+[[Aquios|The Leviathan]], [[Aquios]]'s champion.

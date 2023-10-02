@@ -1,0 +1,1 @@
+Dagger given to the [[Party]] from [[Ephezok]] in [[Aburr]]. Makes it easier to harvest parts from creatures.

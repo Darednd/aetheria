@@ -1,0 +1,1 @@
+Rocky town in the northern [[Valgrum Mountains]]. People live in a hive of caves in the mountain itself. Goliaths often visit here. The [[Church of the Eternal (Eternis)]] has **not** been able to establish a post here due to the terrain and aggresiveness of the goliaths living closely.

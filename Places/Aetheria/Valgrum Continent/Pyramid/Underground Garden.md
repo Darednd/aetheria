@@ -1,0 +1,1 @@
+Second floor of the [[Pyramid Dungeon]].

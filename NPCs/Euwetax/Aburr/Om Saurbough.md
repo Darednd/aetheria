@@ -1,0 +1,1 @@
+Tall, burly human, armored with a blue bear hide and a huge bone greatsword. Thick moustache and beard. Leads the first hunting party of [[Aburr]].

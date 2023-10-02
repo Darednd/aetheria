@@ -1,0 +1,1 @@
+A tavern outside the city walls. Everyone is welcome as long as they have the coin.

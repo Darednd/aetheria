@@ -1,0 +1,1 @@
+[[Conor]]'s former lover. Killed / disintegrated by [[Ella]] when a group of 4 [[Arcanists]] attacked her.

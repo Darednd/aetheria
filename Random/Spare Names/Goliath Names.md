@@ -1,0 +1,13 @@
+#### Goliath
+  - Male
+    - Khuglath Wanderleader Egumiala  
+    - Naumak Longcarver Elanutha  
+    - Pudhan Hardwalker Vunakavi  
+    - Vadath Rainwarrior Kulanelo  
+    - Geanoth Nightpicker Nugalukane
+  - Female
+    - Nalpu Mindleaper Thunukekali  
+    - Zakea Longwatcher Thenalavea  
+    - Gaurrea Highmender Apuna-Molake  
+    - Dauggeo Silentdream Egumatake  
+    - Nithi Riverwanderer Kolae-Geaku

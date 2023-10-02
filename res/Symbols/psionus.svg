@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="223.05951mm"
+   height="223.05951mm"
+   viewBox="0 0 223.05951 223.05951"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="scionus.svg"
+   inkscape:export-filename="E:\Mega\dnd\wiki\campaign2\res\scionus.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="98.71387"
+     inkscape:cy="318.35735"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     fit-margin-left="10" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6.5297546,-36.970245)">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4538"
+       cx="105"
+       cy="148.5"
+       r="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Tentacles"
+     style="display:inline"
+     transform="translate(6.5297546,-36.970245)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:11.33858299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 697.63281,360.8457 c 0,0 -57.47842,-0.23308 -88.05469,15.19336 -30.57622,15.42643 -40.71766,51.34476 -84.11718,74.15625 -43.39956,22.81149 -63.32262,10.39459 -116.78321,2.69531 -35.85487,-5.16374 -46.50698,-39.34228 -96.55273,-54.72265 -33.59185,-10.32367 -49.58469,-9.55964 -66.83008,-8.78125 -16.93663,0.76445 -53.25447,5.44206 -87.63672,11.51172 -27.69582,4.88927 -75.638669,-24.0625 -75.638669,-24.0625 0,0 2.255624,37.16064 45.476559,69.87695 35.80095,27.0997 43.024,10.15167 101.0586,39.0957 36.27424,18.09134 53.48706,57.62842 61.58398,88.03907 a 107.58652,107.58652 0 0 1 -0.875,-12.58789 A 107.58652,107.58652 0 0 1 396.84961,453.67383 107.58652,107.58652 0 0 1 504.4375,561.25977 107.58652,107.58652 0 0 1 396.84961,668.8457 107.58652,107.58652 0 0 1 294.68359,594.55078 c 2.02981,11.72371 2.45899,19.39649 2.45899,19.39649 0,0 3.01591,82.99612 14.66211,115.60546 11.64619,32.60935 54.26958,57.60209 67.33789,94.19336 13.06828,36.59124 31.27539,95.05079 31.27539,95.05079 0,0 43.86297,-68.88829 52.31445,-103.32032 8.45148,-34.43202 -21.73827,-53.46411 -20.79883,-91.15039 0.93944,-37.68627 20.16354,-71.15054 46.63868,-104.66406 26.47513,-33.51353 87.15057,-55.31026 112.54492,-86.05078 25.3943,-30.74049 22.8925,-83.90799 44.87109,-110.51367 21.9786,-26.60565 51.64453,-62.25196 51.64453,-62.25196 z M 294.68359,594.55078 c -1.03819,-5.99637 -2.51264,-13.07023 -4.54492,-20.70312 a 107.58652,107.58652 0 0 0 4.54492,20.70312 z"
+       transform="scale(0.26458333)"
+       id="path4550"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Surrounding Circle"
+     transform="translate(6.5297546,-36.970245)">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path815"
+       cx="105"
+       cy="148.5"
+       r="99.029755" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Iris"
+     transform="translate(6.5297546,-36.970245)">
+    <path
+       transform="matrix(0.17207383,0.98508407,-0.17217223,0.98506685,0,0)"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.43447804;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 368.1004,-243.60173 25.03353,1.04764 0.50499,26.9825 -26.48841,-0.94934 z"
+       id="rect4548"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Eye Shape"
+     transform="translate(6.5297546,-36.970245)" />
+</svg>

@@ -1,0 +1,13 @@
+> There were two dragons... Fighting! I've never seen anything like that in my life and I sure wish I never do, no matter how majestic it was. At least not close to this town. The sheer power...
+>
+		*- Person from [[Lindow]], after the [[Khirhan vs Alatriyon]] battle*
+
+Originally and before the first dragonborn, somewhere in the middle of the PH era, during [[The Dragon War]], only dragons could become champions of the #eidolon, as their energy output was enormously larger than that of humans.
+
+This rule changed significantly after [[The Founding Dragons]] established [[The 6 Dragon Families]] lineages. With the best of both races, the dragonborn were the first humans to become champions. As the dragonborn were humanity's fighting chance and the chaos and destruction that [[The Dragon Faction]] caused, at present, pure humans can rarely be seen and all carry some dragonborn heritage, although quite diluted to the degree of not being recognizable.
+
+This dormant dragonborn blood in most humans is what allows them to nurture a relationship with the #eidolon  they align the most with, eventually, proving themselves with deeds, power and will, and if the seat is not yet taken, ascending to [[Champions]] status.
+
+It is at this point, with the direct help of the #eidolon  in question, that the dormant blood awakens and mutates the body of the new champion into a new form, one suited to the blood's origin and the element of the chosen #eidolon . This is the reason [[Khirhan]] assumed a draconic form after his ascension. This is also the reason why [[Magala]] and  [[Namielle]] are also dragonborn. This however, does not apply to [[Ashk]] as he is already a dragonborn and is also carrying the essence of one of the progenitors of [[The 6 Dragon Families]]. This also does not apply to [[Finn]], as [[Psionus|The Dreamer]] is an exception to all rules, first by being the first pure human ascending to #eidolon  status and second by their champions not needing to be dragons in the first place in order to ascend. There are also the implications of the nature of [[Finn's Ascension]].
+
+Apart from their human bodies being transformed, after some time of getting accustomed to it, the champions can, and do unlock a new form. Once the dormant blood fully awakens, they can assume an even more powerful form, the one of a dragon. This devolution is by no means pure, but it can easily rival and even beat a dragon champion from the PH era.

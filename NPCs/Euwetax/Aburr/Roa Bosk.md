@@ -1,0 +1,1 @@
+A female human. Usually serves people at the "restaurant" in [[Aburr]]. Flirted with [[Khirhan]] and they eventually had a date and a nice night together, leaving her pregnant with [[Khirhan]]'s child.

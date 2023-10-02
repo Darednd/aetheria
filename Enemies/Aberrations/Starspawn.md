@@ -1,0 +1,5 @@
+While in canon D&D these creatures come from the stars. The star of this world is [[Finn]]. During [[The Purge]], influenced and molded by the psychic energy of [[Finn]] and [[Psionus]], the #purged, or at least some of them, were turned into aberrations which would later be called [[Starspawn]]. These mutated humanoids come in all shapes and sizes, some aligned with magic, some with brute strength and some with assassination affinity.
+
+As these creatures were human initially, strong opposed #eidolon  [[Ether]] can cause them to revert to their original human form. One such occurrence was when [[Colm]] used #greaterRestoration  on one of the [[Starspawn]] that attacked them and restored its human form. However, the man's brain was a mess due to the influence of the psychic energy that caused the transformation in the first place.
+
+Now, the [[Starspawn]] wait in hiding for the eventual start of [[Pandemonium]]. One of many preparations [[Psionus|The Dreamer]] is doing in preparation for this event. And one of many assurances of their victory.

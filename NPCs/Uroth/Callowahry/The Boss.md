@@ -1,0 +1,2 @@
+A demon in disguise. Wears a suit and is hunched due to hiding his wings and tail on his back, beneath the shirt and jacket.
+He manages the operations of [[Callowahry]] and the [[Exsanguinated Temple]], using other peoples ambitions in a lawful way to reopen the long-ago sealed corridors, of [[The Abyss]].

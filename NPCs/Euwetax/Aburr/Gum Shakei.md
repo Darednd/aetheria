@@ -1,0 +1,1 @@
+An old white haired man, the #blacksmith of [[Aburr]]. He has studied, mastered and is the only living person in the world that can effectively and efficiently put any monster materials to use by blacksmithing, including the exotic materials from the [[Eidolon-touched animals]].

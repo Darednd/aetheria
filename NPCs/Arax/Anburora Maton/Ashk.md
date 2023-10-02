@@ -1,0 +1,3 @@
+Inherited the esesence of the prismatic dragon, being a platinum dragonborn himself, leading the [[Anburora Maton]] megacity. Also serves as the champion of [[Aeris|The Mother]]. Him and 5 of his #greaterSimulacrum s are leading the plateaus in the upper layer of the city.
+
+He also casts the [[Crystal Tears]] in [[Valgrum]], following [[Aeris|The Mother]]'s will to stall the disbalance that the [[Church of the Eternal (Eternis)]] is bringing to the world.

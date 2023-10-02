@@ -1,0 +1,3 @@
+Former champion of [[Ignis|The Wild]]. Fought in the great war against [[Eternis]] and history remembers him as valiantly sacrificing himself for the greater good, a proud warrior.
+
+The truth is, he did not self-destruct, but when he was close to losing, his pride went over the roof, generating an abysmal amount of energy. However, [[Eternis]]'s words reached him and he felt betrayed by his #eidolon. Armed with forbidden knowledge, he started seeking his own balance, wondering [[Places/Aetheria/Aetheria]] as [[Alatriyon]] and once he achieves it, he will take vengeance on [[Valgrum]] and [[Magala]].

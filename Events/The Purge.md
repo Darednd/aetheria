@@ -1,0 +1,5 @@
+After [[Finn's Ascension]], the first order of business was to enact [[Psionus]]'s plan to start approaching [[Venus|The Vile]] and solidify their position as the replacement for [[Sanctus|The Holy]]. This was to be done by [[Finn]], who would name members of the [[Church of the Eternal (Eternis)]] and nearly random citizens of [[Valgrum]] as non-believers and sentence them to death. 
+
+This would later be called [[The Purge]], as a lot of non-believers and believers alike were purged from [[Valgrum]]. The effects were more than satisfactory. People's faith grew stronger and their fear even more so. The suffering this caused, the malice with which it was enacted with, the pain of the loved ones of those guilty and not was very much enough to start challenging the rightful place of [[Venus]] as the #eidolon of this domain.
+
+Some of those, #purged, were transformed with [[Finn]]'s and [[Psionus]]'s psychic energy into [[Starspawn]], few of which were sent to fight against [[Party 3]]. One part was to challenge them, and another was to solidify [[Aeon]]'s claim that he is there to help. 

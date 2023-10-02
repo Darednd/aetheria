@@ -1,0 +1,1 @@
+Somewhat smaller goliath wearing only pants made of fur and a wild boar mask. Wields dual swords (2 daggers) made of bone. Leads the third hunting party of [[Aburr]].

@@ -1,0 +1,13 @@
+#day53 
+- [[Finn]] walks around [[Valgrum]]
+- He gets admired by one [[Church of the Eternal - Paladin]]
+- He transforms his house into a mix between [[Psionus|The Dreamer]] and [[Eternis]], similar to the [[Psionus Shrine]].
+- He learns about his deal with [[Psionus|The Dreamer]].
+- He teleports to the [[Royal Palace]], where [[Abraham]] is waiting.
+- He stands up from the throne and bows to [[Finn]].
+- [[Finn]] sits on the throne and assumes his title of [[Finitus]]
+- [[Finn]] learns about [[Psionus|The Dreamer]]'s plans with [[Venus|The Vile]] and [[The Red Comet|The Exiled]] and [[Anie]] as his avatar.
+- He receives the [[Lucidity - The Dreamer's Legendary Armament]], a black rapier with green and violet ink-through-water dynamic accents.
+- His first order of business is to make an appearance, which he does the following days, opening the gates to the [[Holy District]], after hundreds of years.
+- His second and immediate order of business is to instruct and guide [[Aeon]] on his mission to assist the [[Party 2]] and get to [[Anie]].
+- He embeds the [[Reyes-touched Monkey (Rajang)]] horn into his [[Aeon]]'s back and sends him off to the [[Party 2]].

@@ -1,0 +1,5 @@
+Was delivering the [[Message from Orkham to the Crossroads Camp]] with 2 other soldiers. They were intercepted by the [[Party]] and the other soldiers were slain. He was given 10gp from [[Finn]] to drink himself silly and was given an "enchanted" note from [[Vince]] which was supposed to kill him if he goes to the [[Crossroads Camp]].
+
+On his trip to [[Valgrum]], he found a bunch of coins on the ground and had a vision from [[Eternis]]. He, being the god that he worshipped, offered him absolution and absolute protection, which he accepted and proceeded to the [[Crossroads Camp]], ignoring all the [[Party]] told him.
+
+He would later become the first [[Eldritch Aasimar]] and swear his loyalty to [[Finitus]] and [[Psionus|The Dreamer]]. He took up a new name given to him by [[Finitus]] - [[Aeon]]. Joining the [[Party 3]], he assisted them until they came to his original goal - [[Anie]], where he called [[Finitus]]. He was then trapped in a pocket dimension, but saved by [[Finitus]] and taken into [[Valgrum]].

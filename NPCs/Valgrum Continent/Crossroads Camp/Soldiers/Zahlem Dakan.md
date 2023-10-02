@@ -1,0 +1,1 @@
+Persuaded by the [[Party]] to talk to [[Lorenzo]] and grant them passage and stay in the [[Crossroads Camp]].

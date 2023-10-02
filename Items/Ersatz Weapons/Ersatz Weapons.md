@@ -1,0 +1,7 @@
+Each [[Eidolons|Eidolon]] has a unique [[Legendary Armament]] that they can grant to their champion. These legendary weapons are what the [[Arcanists]] sought to recreate. A fraction of their power could prove immensely useful in their endeavors to take down the Eidolons. Using their power, makes their goal so much more satisfactory to achieve.
+
+Understanding the fundamental concept of [[Ether]] and a few other breakthroughs allowed the Arcanists to create the first such weapon. The [[Frequency - Cicus Ersatz Weapon]] was the first of a chain of experiments to prove successful. This was achieved due to the presence of [[The Cocoon]] and the knowledge they shared with them, as well as being able to study [[Tinnitus - The Mind's Legendary Armament]].
+
+With the [[Ether Conversion Technology]] they invented, they were able to store and convert raw #ether into the thunder element. Harnessing this technology into a weapon made out of parts of the [[Eidolon-touched animals|Eidolon-touched]] bug that attacked [[Norren]]'s family 20 years ago. This resulted in the [[Frequency - Cicus Ersatz Weapon|Frequency]] #switchaxe. It was given to [[Bal Chuvorsk]] as a high-standing member of the Arcanists. Proven loyal and dedicated to their cause.
+
+With the first success, came two other, [[Frostbite - Glacies Ersatz Weapon]] and [[Rest - Necron Ersatz Weapon]]. And they are very close to mass-producing these weapons. [[Pandemonium]] is close anyway. Might as well prepare to the fullest extent.

@@ -1,0 +1,1 @@
+Paper given to [[Party]] by [[Ephezok]] in [[Aburr]]. Contains the sketch of the #teleportationCircle  that [[Ephezok]] has in his house.

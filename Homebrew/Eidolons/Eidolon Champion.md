@@ -1,0 +1,3 @@
+By nourishing the relationship between humans and #eidolon s, usually with [[Aspects of Reciprocity]], some humans with great potential are chosen as a given #eidolon 's champion. 
+
+These humans are a cut above the rest, acting on the #eidolon 's behest. Serving as their right hand on [[Places/Aetheria/Aetheria]]. Apart from enacting the #eidolon 's will, they also gain a tremendous amount of power, most often being able to cast spells higher than 9th level or are imbued with superhuman innate abilities.

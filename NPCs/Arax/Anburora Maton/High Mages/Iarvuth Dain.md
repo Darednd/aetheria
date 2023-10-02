@@ -1,0 +1,1 @@
+A green male dragonborn of the Dain family. Inherited the emerald dragon essence and is now in charge of the [[Anburora Maton#Green Area]] by being its #highMage.

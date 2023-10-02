@@ -1,0 +1,1 @@
+Female half elf, dressed in white fur armor,  wielding a bow, decorated with fur and bony tusks. Leads the second hunting party of [[Aburr]].

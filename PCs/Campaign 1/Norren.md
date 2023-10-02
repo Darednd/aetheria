@@ -1,0 +1,1 @@
+A wood elf rogue working for the [[Arcanists]]. Is around 27 years old. Joined the [[Party 2]] on #day47. Was partnered for 20 years with [[Qia Huay]], a human woman with whom they did good mercenary work around the [[Arax Continent]].

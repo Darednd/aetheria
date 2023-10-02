@@ -1,0 +1,1 @@
+One of the first dragonborn and one who inherited [[Rissu, The Kind - The Moonstone Founding Dragon]]'s essence. He would later be wed to [[Exal Bahamut]] and father [[Aetheria Bahamut Rissu|Aetheria Bahamut Rissu]], the world's savior.

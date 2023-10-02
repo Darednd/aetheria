@@ -1,0 +1,3 @@
+An unexpected gift to the world. A master of all elements and energies. Immensely powerful and thankfully good aligned. There has been only one such person in the history of [[Aetheria]] and that is the one whose name the planet bears - [[Aetheria Bahamut Rissu]].
+
+The champion is to thank for humanity's existence as free people, for the reduction of the number of dragons in the world, for ending [[The Dragon War]], forging [[The Balance]]...

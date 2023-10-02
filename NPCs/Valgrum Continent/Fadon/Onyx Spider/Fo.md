@@ -1,0 +1,1 @@
+Fo Yan. Half-elf member of the [[Onyx Spider]]. Accompanied [[Zimem]] with escorting [[Finn]] and [[Khirhan]] to a fight pit [[Zimem]] organized.

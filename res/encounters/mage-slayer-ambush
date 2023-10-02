@@ -1,0 +1,28 @@
+MSRogue
+    AC  18
+    Scimitar +2 +11 1d6+7 slash (+5d6)
+MSRanger
+    AC  18
+    Multi (x2) - Longbow +2 +13 1d8+7 piercing
+MSFighter
+    AC  18
+    Multi (x2) - Longsword +2 +11 1d8+7 slashing
+    1x Action Surge
+    Second Wind - 1d10 + 10
+
+All
+    On attack - Spellbleed, CON save (10 or half damage). On failure, lose a spell slots up to difference
+    Reaction - Interrupt casting, CON save (10 or half damage). On failure, spell fizzles
+
+Norren  26
+Anie    21
+Night   20
+MSF1    17.1    80/75
+Colm    17
+Aeon    16
+# MSRa    13
+MSRo    13
+Sim     12
+Ashk    10
+# MSF     10
+Conor   4

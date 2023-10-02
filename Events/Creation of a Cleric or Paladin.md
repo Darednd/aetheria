@@ -1,0 +1,3 @@
+An evangelist of the [[Church of the Eternal (Eternis)]] fetches a young girl and leads her to the Holy District. She much later emerges, bearing an Aasimar child...
+
+Song: https://www.youtube.com/watch?v=8LtczrHHZ0A&list=PLCLeSTzz6trYB89ZYFswkVKoQWPZ6e7_1&index=14

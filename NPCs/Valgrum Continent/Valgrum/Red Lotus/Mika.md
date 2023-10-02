@@ -1,0 +1,1 @@
+Worker in [[The Red Lotus]]. Drank a glass of beer mixed with 2 drops of potion residue.

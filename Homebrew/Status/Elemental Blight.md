@@ -1,0 +1,6 @@
+When a creature is affected with this status, pick a type of elemental damage (bludgeoning, slashing and piercing are not considered elemental damage types).
+
+The affected creature, for the duration:
+- Has its immunity to that elemental damage type reduced to a resistance or...
+- Has its resistance to that elemental damage type nulified or...
+- Is [[Semi-Vulnerability|semi-vulnerable]] to that elemental damage type if it is not resistant or immune to it.

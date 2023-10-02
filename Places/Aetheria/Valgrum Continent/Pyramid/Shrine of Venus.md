@@ -1,0 +1,3 @@
+A room, nearly twice as large as the antechamber room at the top of the pyramid. The walls, polished to perfection are smooth and a dim green light is emanating from invisible sources. At the center, there is a small shrine with the crest of [[Venus]]. And right in front of it, there is an enormously heavy hatch that leads to the last chamber of the monumental tomb.
+
+Upon opening the hatch, which by itself is already quite heavy, the spell [#illusoryDragon](https://5e.tools/spells.html#illusory%20dragon_xge) is cast assaultint everyone near the shrine.

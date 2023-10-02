@@ -1,0 +1,27 @@
+- [[Khirhan]] arrives as [[Party 4]] with [[The Firekeepers]] and heads towards the [[Holy District]] for [[Anny]].
+- [[Khirhan]] and [[Finn]] begin to fight
+	- [[Khirhan]] misses the first hit.
+	- [[Finn]] turns into an ancient deep dragon.
+	- He burrows and [[Khirhan]] cannot hit him, so [[Khirhan]] goes after surrounding structures and church personnel, killing a [[Church of the Eternal - Soldier]] and a [[Church of the Eternal - Paladin]].
+	- [[Finn]] casts a custom spell to grab [[Khirhan]] and breaks his rage, but it is ressited by [[Khirhan]]'s legendary resistances.
+	- [[Khirhan]] scores a critical hit on [[Finn]] but cannot finish him off, because [[The Red Comet|The Exiled]] is indeed part of the balance in their own strange way.
+	- [[Finn]] with his last strengths casts a 13th level #meteorSwarm, that [[Khirhan]] accepts with open arms.
+	- Finally, [[Khirhan]] takes [[Finn]], flies him to the center of town, above the tower in the [[Holy District]] and drops him, for all to see and witness his defeat.
+	- [[Finn]] starts free-falling, as [[Khirhan]] flies towards the [[Arax Continent]] where his next challenge awaits.
+- In the meantime, the parties go for [[Anny]].
+	- They persuade the guards to open the door to the [[Holy District]].
+	- They rush in the tower, no door stopping [[Norren]].
+	- They go up and eventually get enough suspicion so that church personnel gather and apprehend them.
+	- [[The Firekeepers]] decide to hold their ground and let the [[Party 4]]
+	- They arrive near [[Anny]]'s door and are ambushed by the 5 warlock pirates, contracted wtih [[Finn]] and [[Aeon]].
+	- [[Finn]] uses his legendary actions to provide backup to [[Aeon]] and the pirates, calling in a [[Enemies/Church of the Eternal - Cleric]] and a [[Church of the Eternal - Paladin]].
+	- This is not enough to stop the party and [[Colm]] controls the situation with multiple #holdPerson spells, making it trivial.
+	- The encounter is finished as [[Conor]] kills [[Aeon]] by stabbing him with the halberd and twisting it.
+- [[Norren]] picks the lock with mage hand, guided by [[Colm]].
+- Inside is [[Anny]] and after the earthquakes caused by the #meteorSwarm and seeing her father covered in all sorts of bodily fluids, she involuntarily casts a spell.
+- The dice, rolled by [[Norren]]'s maker, decide that a #wish spell is cast.
+- [[Anny]]'s wish boils down to being normal, which the spell grants and she loses her draconic heritage and turns into a normal human, without any abilities.
+- She reunites with [[Conor]].
+- [[Colm]] sends a message to [[The Firekeepers]] but receives no response, their fate undetermined.
+- [[Colm]] sends everyone back to [[Anburora Maton]], where he built a shrine to [[Sanctus|The Holy]].
+- He stays behind, as [[Valgrum]] is his birth place.

@@ -1,0 +1,1 @@
+Ef Kavag. A female blue dragonborn, young member of the [[Onyx Spider]] in [[Fadon]]. Actually an [[Anburora Maton]] royal, escaped on a ship due to not wanting to take responsibility and not having a knack for magic, being under constant pressure from her parents.

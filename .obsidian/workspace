@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "c375954f11f19d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bd8308030e7418d",
+        "type": "split",
+        "children": [
+          {
+            "id": "835f13e2a3084edd",
+            "type": "split",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "2aa88659f5e6a03c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Timeline/Session 036/Notes - Session 036.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c687b42edf01dd06",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "res/Stat Blocks/mage_slayer_ranger.pdf"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "69b32323964d0916",
+            "type": "split",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "5ad08c6894cd13f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Timeline/Session 036/Day 052, 053.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bccfeb5add07b630",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Random/Encounters - Arax (Level 8, 9).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6666509ad70a41e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "52a47208b4aeaea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f01ef43783382c22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "01c0e34318d7b36e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230
+  },
+  "right": {
+    "id": "9381fcd2c9386312",
+    "type": "split",
+    "children": [
+      {
+        "id": "9adb66fb23468c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "765959ab1c550eaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Timeline/Session 036/Day 052, 053.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5ad08c6894cd13f9",
+  "lastOpenFiles": [
+    "Timeline/Session 036/Notes - Session 036.md",
+    "res/Stat Blocks/mage_slayer_ranger.pdf",
+    "Events/Conor's Memory is Restored.md",
+    "Timeline/Session 033/Notes - Session 033.md",
+    "Timeline/Session 034/Notes - Session 034.md",
+    "Timeline/Session 035/Notes - Session 035.md",
+    "Timeline/Session 035/Day 050, 051, 052.md",
+    "Random/Encounters - Arax (Level 8, 9).md",
+    "Homebrew/Dreamer/Temporal Phase Shift.md",
+    "Timeline/Session 034/Day 048, 049, 050.md"
+  ]
+}

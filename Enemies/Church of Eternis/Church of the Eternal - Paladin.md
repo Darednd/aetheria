@@ -1,0 +1,1 @@
+![[Church of the Eternal Paladin.png]]

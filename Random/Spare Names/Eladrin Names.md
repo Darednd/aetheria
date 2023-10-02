@@ -1,0 +1,9 @@
+#### Eladrin
+  - Male
+    - Otircard  
+    - Corurian  
+    - Crudon
+  - Female
+    - Anthaea  
+    - Eilthaea  
+    - Urarynna

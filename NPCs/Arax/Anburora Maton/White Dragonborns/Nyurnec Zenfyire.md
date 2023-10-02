@@ -1,0 +1,1 @@
+Female cleric devoted to [[Aeris|The Mother]]. Her services can be inquired in the moonstone castle in the [[Anburora Maton#White Area]]'s.

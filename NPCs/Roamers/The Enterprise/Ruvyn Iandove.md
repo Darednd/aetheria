@@ -1,0 +1,1 @@
+An elf serving as the main "buttler" of [[The Enterprise]].

@@ -1,0 +1,9 @@
+#### Aasimar
+  - Male
+    - urlor  
+    - zyran  
+    - aikleer
+  - Female
+    - ildo  
+    - thommi  
+    - rhima

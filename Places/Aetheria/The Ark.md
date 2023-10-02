@@ -1,0 +1,1 @@
+Huge ship made by the slaves of the [[Church of the Eternal (Eternis)]] in [[Fadon]]. Bearing a huge amount of slaves and resources, the Ark began it's travel to the [[Isan Continent]] to begin establishing the [[Isan Church Base]].

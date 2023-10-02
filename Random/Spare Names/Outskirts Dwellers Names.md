@@ -1,0 +1,35 @@
+## Outskirts dwellers:
+- Male
+  - udad doker  
+  - rudein dhahri  
+  - gergurk Doomweaver  
+  - stordelm Shadowglory  
+  - glirol grorsk  
+  - gen radrev  
+  - grugrem Frostswift  
+  - strath Oceanblaze  
+  - mek-dohpih dathrizrift  
+  - sututh vehkild  
+  - vledjindit gyananutvo  
+  - brodaut rangorki  
+  - thiong deiy  
+  - lip wai  
+  - chuezierde furgildes  
+  - crizir dudrane
+- Female
+  - yupevel raneim  
+  - neihluh khanu  
+  - rasrilsu Skullwinds  
+  - tolzi Mildswallow  
+  - hormin shiv  
+  - na korkatsk  
+  - roshovra Singlesinger  
+  - hefri Waterripper  
+  - kaline dulinkhekt  
+  - ralo vazdem  
+  - suvravle hitvirogu  
+  - sarri nevubi  
+  - tai jei  
+  - xao duen  
+  - iamm sedrulbu  
+  - mailmb borgigil

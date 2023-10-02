@@ -1,0 +1,1 @@
+An older man in the village of [[Aburr]]. Fan of music instruments being used to bludgeon enemies... Not the most practical weapons, but that's what gives him his main trait - excentricity.

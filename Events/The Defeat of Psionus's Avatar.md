@@ -1,0 +1,1 @@
+[[Eternis]], the [[Daelkyr]] half-blood, who eventually founded the [[Church of the Eternal (Eternis)]] and later became [[Psionus's Avatar]] was slain in a grand battle, defeated by different races aided by [[Necron]], [[Venus]] and [[Ignis]].

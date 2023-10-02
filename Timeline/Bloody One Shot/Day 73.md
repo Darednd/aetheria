@@ -1,0 +1,44 @@
+#### Day 73
+#day73
+- [[Aight]], [[Denis]], [[Darian]] and [[SF]] along with three other teams enter the [[Exsanguinated Temple]].
+- [[SF]] pours blood on the door, activating the mechanism, but only partially.
+- Three of them and the #mageHand from [[Denis]] lift the door enough to re-activate the mechanism and proceed.
+- Next is the obstacles room.
+	- [[Darian]] and [[SF]] are the first to move forward and successfully.
+	- [[Denis]] with [[Darian]] destroy a chain holding one of the swinging halberds and it causes a mess.
+	- [[SF]] moves along the edge of the room and arrives safely at one of the activation spheres.
+	- [[Darian]] tosses pieces of rope on the traps to keep them active. He arrives at the second activation sphere.
+	- [[Aight]] shoots the orbs but the bullets just ricochet. [[SF]] catches one and throws it towards the other orb. [[Darian]] dodges that one easily.
+- [[Pink Bats]] fly out as the door forward opens.
+- They eventually enter the room with the [[Blood bags]].
+- [[SF]] uses a save point and jumps in the abyss surrounding the circular platform at the middle.
+	- He falls for quite some time before noticing that he is frozen in space.
+	- He notices a distant light.
+	- Using a rope, throwing it, like in outer space, he manages to get to the circular platform with the [[Malzeno]] sarcophagus.
+	- He notices that his oily blood is absorbed by the pipes and he decides, in honor of the [[Necron|The Reaper]] to take his own life.
+	- Oil spurts from his now-beheaded corpse and is getting absorbed into the sarcophagus.
+	- From the pitch blackness of the void surrounding this platform, the Reaper stretches their 3 long pointy dark violet fingers and picks up the two body parts of [[SF]] and takes them to [[Wisira]].
+	- [[Malzeno]] awakens as their white scales and crimson reptilian eyes are the first thing that is visible from within the sarcophagus.
+- The party fights off the [[Blood bags]].
+- In the next hallway, they see the dreadful sight of dehydrated corpses, pools of blood and a free collar.
+- [[Casandra]] the minotaur appears from one of the hallways leading to this one.
+- They continue forwards together.
+- They enter the boss room and [[Sildar]]'s bloated form falls and breaks on a similar sarcophagus as the one in the abyss, filling it with blood.
+- This unleashes the [[Tyrant]].
+- [[Kleira]] appears from behind the sarcophagus and provokes the Tyrant.
+- It morphs its arm and extends 5 blade-like fingers made of blood. It clenches them and pierces [[Kleira]] lifting her up in the air and then throwing hear near the edge of the arena.
+- The fight begins
+	- First that goes it's the Tyrant's torso, a baby-like creature appears from it.
+	- Then goes its head, where a swarm of tentacles bursts and starts flailing.
+	- Next is their clawed arm, which turns into a centipede and attaches to [[Casandra]]'s back.
+	- After a heavy blow from [[Aight]], its legs burst and a huge mass of flesh, bone, skin and sinew starts taking up space in the arena.
+	- One more heavy series of blows from [[Aight]] and a #fireball from [[Denis]] and the corpse bursts into a thousand pieces.
+	- In the meantime, [[Casandra]] pushes [[Kleira]] into the void and she falls while maniacally laughing.
+	- The smaller pieces skitter away like bugs under the arena.
+- The floor begins to slam into the ceiling, one onion ring at a time, starting from the outermost one.
+- The party moves towards the middle platform and an elevator takes them to the surface.
+- No key is found.
+- Once they celebrate, the forest becomes quiet.
+- [[Alatriyon]], in his dragon form, unleashes #escatonJudgement on [[Khirhan]] on the [[Arax Continent]].
+	- The party hears his scream.
+	- The sky turns white.

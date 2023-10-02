@@ -1,0 +1,1 @@
+Formerly [[Rhusham Zeihlu]]. Went to the [[Crossroads Camp]] and enrolled in an experimental program where he was reborn as an [[Eldritch Aasimar]].

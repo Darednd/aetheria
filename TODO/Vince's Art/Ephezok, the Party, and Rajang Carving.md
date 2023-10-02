@@ -1,0 +1,1 @@
+Carving that [[Vince]] did on #day17 behind [[Gum Shakei]]'s house in [[Aburr]]. It pictures the mindflayer [[Ephezok]] standing above them, [[Khirhan]] in the middle, having slayed the monkey and both [[Vince]] and [[Finn]] at the mindflayer's side, around [[Khirhan]].

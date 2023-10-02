@@ -1,0 +1,1 @@
+Soldier in the [[Crossroads Camp]]. Caught [[Khirhan]] wandering and brought him back to his tent. Reported this action of the [[Party]] to [[Lorenzo]].

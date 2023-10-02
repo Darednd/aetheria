@@ -1,0 +1,1 @@
+[[Lorenzo]]'s familiar. Tailed the [[Party]] while being invisible.

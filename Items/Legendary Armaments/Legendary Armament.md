@@ -1,0 +1,3 @@
+As [[Ether|Chaos]] converged into the [[Eidolons]], its living representation, so did it converge into the [[Legendary Armament]]s, its non-living counterpart. There is a strange relationship between the Eidolons and their legendary armaments. Some grant them immediately and some only when certain conditions are met. Some guard them as their dearest treasure and never do their champions even set eyes on them.
+
+Whatever the case, these weapons are a force to be reckoned with. Boasting incredible power, further increased by the element of the eidolon in question and extracting superhuman, or even godlike power from the user, these weapons are enough for a single individual to rule a continent, maybe even a few.

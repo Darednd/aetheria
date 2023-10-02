@@ -1,0 +1,1 @@
+Old house in [[Fadon]]. The [[Church of the Eternal (Eternis)]] used this as a base for transporting supplies to build [[The Ark]] . Now it is abandoned and the only thing left from the church is the nearly faded teleportation circle symbol on the ground.

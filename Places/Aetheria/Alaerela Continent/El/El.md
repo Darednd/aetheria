@@ -1,0 +1,3 @@
+The absolute and eternal home of the elves on [[Places/Aetheria/Aetheria|Aetheria]]. Every elf is welcome and foreigners are shunned and treated as suspicious unwanted guests. 
+
+Starting from the [[Par'makh Peninsula]] and spreading inwards in the [[Alaerela Continent]], including the [[Tr'nakh Island]]  in [[The Great Charybdis]]. The elven refined architecture is easy to notice and breathtaking to say the least. Structures with curved motifs, gold-lined, simple, yet very efficient and pleasant to look at.

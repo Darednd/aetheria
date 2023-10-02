@@ -1,0 +1,1 @@
+Male. Missing some tuffs of feathers. Ridden by [[Vince]].

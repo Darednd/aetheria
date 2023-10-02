@@ -1,0 +1,3 @@
+Song: https://youtu.be/yWh9l8RSkPk
+
+[[Aeris]]'s cries for her beloved, trapped and decaying in the [[Places/Aetheria/Adastreia]] thousands of miles in the sky, bring with them a storm of force crystals. Harmless, beautiful raindrops of pure force crystal fall towards the ground, sharing a bit of her pain with the world, the trees, the animals, the people... That's the main reason why it is forbidden to stay outside in [[Valgrum]] when this event occurs. The [[Church of the Eternal (Eternis)|church]] does not want the people to associate with other gods.

@@ -1,0 +1,1 @@
+A blue male dragonborn of the Kavag family. Inherited the sapphire dragon essence and is now in charge of the [[Anburora Maton#Blue Area]] by being its #highMage.
